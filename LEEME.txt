@@ -1,0 +1,13 @@
+CARRITO DEL SÚPER 2.0
+
+Contiene index.html, icono.png (original sin modificar), manifest.json y sw.js.
+
+INSTALACIÓN EN SAMSUNG (Chrome/Edge):
+1) Publicar estos cuatro archivos juntos en una carpeta de un sitio HTTPS (por ejemplo GitHub Pages o Netlify). No basta abrir index.html con file://.
+2) Abrir la dirección HTTPS en Chrome del celular.
+3) Elegir "Instalar aplicación" o "Agregar a pantalla principal".
+4) Abrir una vez conectado a internet para que se cacheen los recursos; luego funcionará sin conexión.
+
+No se necesita KSWEB ni PHP.
+El historial y carrito se guardan localmente en el navegador instalado; se pueden respaldar desde Configuración > Exportar respaldo y restaurar con Importar respaldo.
+Mantener guardado un respaldo JSON aparte antes de borrar datos o desinstalar la app.
