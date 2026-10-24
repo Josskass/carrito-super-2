@@ -1,3 +1,7 @@
-Carrito del Super 2.1 - prueba con tres retoques finales. Cambios: 1) nombres de respaldos JSON con fecha y hora local (hasta segundos); 2) icono del boton Ver carrito en negro con SVG; 3) texto del boton levemente mas grande. No cambia datos ni funcionalidades. Prueba primero en el repositorio 2.1 de pruebas. No reemplazar version 2.0 todavia.
+Carrito del Súper 2.1.5 — Ajuste visual.
 
-Nuevo boton «Guardar en Drive»: abre el menu de compartir de Android para elegir Drive. No sube automaticamente y necesita un navegador compatible y conexion para completar la subida.
+CAMBIO: se añadió espacio inferior a la vista Habituales, evitando que el botón flotante «Ver carrito» tape «Agregar seleccionados a la lista».
+
+SIN CAMBIOS: comportamiento del carrito, productos, habituales, historial, exportación, imágenes de ícono y demás funciones.
+
+Subir los 6 archivos al repositorio oficial en la rama main, reemplazando los existentes. No desinstalar la app. Antes de actualizar, guardar un respaldo desde la aplicación.
